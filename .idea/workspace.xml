@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0f77d5d-65b6-4d4f-85cb-6847833a14f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/clayton/mongodb/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pp.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/praxis-1.0-SNAPSHOT.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -61,6 +57,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kygot\Desktop\Referat NoSQL MongoDB\praxis\praxis" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kygot\Desktop\Referat NoSQL MongoDB\praxis\praxis" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -90,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675038605794</updated>
-      <workItem from="1675038606790" duration="3712000" />
+      <workItem from="1675038606790" duration="4497000" />
     </task>
     <servers />
   </component>
